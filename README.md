@@ -27,7 +27,7 @@
      - Python (ms-python.python)
      - Python Environment Manager
      - Python Extension Pack
-   - Откройте проект: File -> Open Folder -> выберите папку с проектом
+   - Откройте проект: File -> Open Folder -> выберите папку для клонирования проекта
    - Выберите интерпретатор Python: 
      1. Нажмите F1 или Ctrl+Shift+P
      2. Введите "Python: Select Interpreter"
