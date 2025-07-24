@@ -102,7 +102,6 @@ TEMPERATURE=0.7
 │   ├── main_simple.py     # Упрощенная версия main.py с урезанным функционалом
 │   └── main.py            # Точка входа приложения
 ├── .env.example           # Пример конфигурации
-├── .gitignore             # Исключения Git
 ├── requirements.txt       # Зависимости Python
 └── README.md              # Документация
 ```
